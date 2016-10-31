@@ -1,3 +1,6 @@
+body{
+  background-color: #E8CB75;
+  }
 #landing-image{
   position: absolute;
   top:0px;
@@ -29,6 +32,8 @@ h3{
   /*border-radius: 25%;*/
 }
 .description{
+  background-color: rgba(255, 2555, 255, 0.2);
+  border-radius: 25px;
   text-align: center;
   text-shadow: 1px 1px 5px #ADFFA3;
   color: black;
