@@ -10,6 +10,9 @@
   width: 100vw;
   height: 100vh;
 }
+#second-image{
+  background-image: url("brick-house-299766_1920.jpg");
+}
 .brandLogo{
   width:250px;
   height: auto;
@@ -28,14 +31,13 @@
     color: rgb(129,255,250);
     text-shadow: 0px 0px 15px #A181E8;
     font-family: 'Atma', cursive;
+    margin-right: 25px;
 }
 #navbarResponsive a {
+  margin-right: 50px;
     color: #ADFFA3;
     text-shadow: 0px 0px 5px #E8CB75;
     font-family: 'Baloo Thambi', cursive;
-
-
-
 }
 .jumbotron{
   background-color: transparent;
@@ -43,12 +45,15 @@
 .jumbotron  h1{
   font-family: 'Baloo Thambi', cursive;
   text-align: center;
+  font-size: 50pt;
+  color: #E8CB75;
   /*background-color: rgba(232, 203, 117, 0.25);*/
-  width: 25%;
+  width: 40%;
   margin: auto;
   /*border-radius: 25%;*/
 }
 .jumbotron p {
+  font-size: 20pt;
 text-align: center;
 font-family: 'Atma', cursive;
 
