@@ -10,10 +10,29 @@
   width: 100vw;
   height: 100vh;
 }
+<<<<<<< HEAD
 
 .bg {
   background-color: white;
   margin-top: 30%;
+=======
+h3{
+  align: center;
+}
+.jumbotron  h3{
+  font-family: 'Baloo Thambi', cursive;
+  text-align: left;
+  font-size: 50pt;
+  color: #E8CB75;
+  text-shadow: 0px 0px 5px #A181E8;
+  /*background-color: rgba(232, 203, 117, 0.25);*/
+  /*border-radius: 25%;*/
+}
+.description{
+  text-align: center;
+  text-shadow: 1px 1px 5px #ADFFA3;
+  color: black;
+>>>>>>> a6eb966f9d653e5008702b96d40d406fc760af30
 }
 .brandLogo{
   width:250px;
@@ -33,14 +52,13 @@
     color: rgb(129,255,250);
     text-shadow: 0px 0px 15px #A181E8;
     font-family: 'Atma', cursive;
+    margin-right: 25px;
 }
 #navbarResponsive a {
+  margin-right: 50px;
     color: #ADFFA3;
     text-shadow: 0px 0px 5px #E8CB75;
     font-family: 'Baloo Thambi', cursive;
-
-
-
 }
 .jumbotron{
   background-color: transparent;
@@ -48,12 +66,15 @@
 .jumbotron  h1{
   font-family: 'Baloo Thambi', cursive;
   text-align: center;
+  font-size: 50pt;
+  color: #E8CB75;
   /*background-color: rgba(232, 203, 117, 0.25);*/
-  width: 25%;
+  width: 40%;
   margin: auto;
   /*border-radius: 25%;*/
 }
 .jumbotron p {
+  font-size: 20pt;
 text-align: center;
 font-family: 'Atma', cursive;
 
