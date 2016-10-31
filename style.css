@@ -10,8 +10,9 @@
   width: 100vw;
   height: 100vh;
 }
-#second-image{
-  background-image: url("brick-house-299766_1920.jpg");
+h3{
+  align: center;
+
 }
 .brandLogo{
   width:250px;
