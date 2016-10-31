@@ -10,6 +10,10 @@
   width: 100vw;
   height: 100vh;
 }
+.brandLogo{
+  width:250px;
+  height: auto;
+}
 .nav-item{
   margin-right: 20px;
 }
