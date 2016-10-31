@@ -12,7 +12,20 @@
 }
 h3{
   align: center;
-
+}
+.jumbotron  h3{
+  font-family: 'Baloo Thambi', cursive;
+  text-align: left;
+  font-size: 50pt;
+  color: #E8CB75;
+  text-shadow: 0px 0px 5px #A181E8;
+  /*background-color: rgba(232, 203, 117, 0.25);*/
+  /*border-radius: 25%;*/
+}
+.description{
+  text-align: center;
+  text-shadow: 1px 1px 5px #ADFFA3;
+  color: black;
 }
 .brandLogo{
   width:250px;
